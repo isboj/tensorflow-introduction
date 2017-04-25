@@ -1,4 +1,4 @@
 # tensorflow-introduction
 TensorFlowの初歩的なソースコード  
-# LICENCE
+## LICENCE
 This software is released under the MIT License, see LICENSE.
